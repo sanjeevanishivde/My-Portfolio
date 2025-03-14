@@ -1,0 +1,45 @@
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Aligns items to the left */
+    background: linear-gradient(135deg, #f0e6ff, #e0ccff); /* Enhanced gradient */
+    padding-left: 5%; /* Adds spacing from left */
+    height: 100vh; /* Takes full height of the screen */
+}
+
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #4a0254;
+    text-align: left; /* Left align the text */
+    margin-right: 40px; /* Adds space between text and image */
+}
+
+.hero-content h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 10px; /* More space between h1 and text animation */
+    color: #3a0057; /* Adjusted color for better contrast */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.hero-content .highlight {
+    color: #ffccff; /* Light purple/pink highlight */
+}
+
+.hero-image {
+    flex-shrink: 0;
+    margin-left: 80px; /* Moves image to the right */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+  }
+  
+  .hero-image img {
+    width: 300px; /* Increase image size for better proportions */
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 4px 6px 12px rgba(0, 0, 0, 0.2);
+  }
