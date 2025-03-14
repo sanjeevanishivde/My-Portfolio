@@ -1,0 +1,1 @@
+import{j as e}from"./index-EQtXV3uX.js";const r=()=>e.jsxs("section",{className:"resume",children:[e.jsx("h1",{children:"Resume"}),e.jsx("a",{href:"src/components/resume.pdf",download:!0,children:"Download My Resume"})]});export{r as default};
