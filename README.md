@@ -93,7 +93,7 @@ This is a **React-based portfolio website** designed to showcase my skills, proj
 ---
 
 ## 🔗 Links
-- **GitHub Repository**: [My-Portfolio](https://github.com/sanjeevanishivde/My-Portfolio.git)
+- **GitHub Repository**: (https://my-portfolio-ten-gray-84.vercel.app/)
 - **Linkedin**: [LinkedIn](https://www.linkedin.com/in/sanjeevanis87/)
 
 ---
